@@ -1,0 +1,5 @@
+- 👋 Hi,I’m currently Working in Machine learning & Fullstack Developement 
+- 👀 I’m interested in Deep learning and robotics.
+- 🌱 I’m currently learning machine learning implementation on Web apps and Mobile apps
+- 💞️ I’m looking to collaborate on Research work.
+- 📫 How to reach me: gokulnath30@gmail.com
