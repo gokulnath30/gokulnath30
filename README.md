@@ -1,5 +1,5 @@
-- 👋 Hi,I’m currently Working in Machine learning & Fullstack Developement 
-- 👀 I’m interested in Deep learning and robotics.
-- 🌱 I’m currently learning machine learning implementation on Web apps and Mobile apps
-- 💞️ I’m looking to collaborate on Research work.
-- 📫 How to reach me: gokulnath30@gmail.com
+- 👋 Hi, I’m Gokulnath, a Fullstack Machine Learning Developer with a passion for Deep Learning and Robotics.
+- 👀 I have a keen interest in pushing the boundaries of what's possible in the field of AI, especially in the realms of Deep Learning and its applications in Robotics.
+- 🌱 Currently, I'm immersed in learning how to implement machine learning models seamlessly into web and mobile applications, creating intelligent and interactive user experiences.
+- 💞️ I'm eager to collaborate on cutting-edge research projects that leverage the power of AI to solve complex problems and drive innovation.
+- 📫 You can reach out to me at gokulnath30@gmail.com. Let's connect and explore the exciting possibilities at the intersection of Fullstack Development, Machine Learning, and Robotics!
